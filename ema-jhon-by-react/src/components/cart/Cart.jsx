@@ -5,7 +5,7 @@ import Product from '../product/Product';
 
 const Cart = (props) => {
     const cart  = props.cart
-    console.log(cart);
+  console.log(cart);
 
    let Total = 0;
    let totalShipping = 0;
