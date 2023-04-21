@@ -8,3 +8,19 @@
     gap: 45px;
     margin: 50px;
 }
+.btn-proceed{
+    height: 56px;
+    width: 90%;
+    border-radius: 4px;
+    background-color:#FF9900;
+  margin:10px auto;
+  font-size: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+color: white;
+
+}
+.proceed-link{
+ text-decoration: none;
+}
